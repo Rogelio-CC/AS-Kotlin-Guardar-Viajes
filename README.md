@@ -1,0 +1,2 @@
+Aplicación hecho con el lenguaje de programación Kotlín y con el editor de código Android Studio. Consiste en introducir el nombre de la persona, el destino deseado, fecha del viaje, duración del viaje en días y seleccionar la actividad que se va a realizar en el viaje. Cuando esten listo esos datos, se podrá guardar el viaje.
+Lo destacable de esta aplicación es el uso de Intent (ayuda a cambiar de pantalla de forma dinámica) y el uso de la programación orientada a objetos.
