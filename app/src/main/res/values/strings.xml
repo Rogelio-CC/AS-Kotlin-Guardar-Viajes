@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDMPA_512_2P_EX_74823</string>
+    <string-array name="viajes">
+        <item>Todos</item>
+        <item>Pasados</item>
+        <item>Próximos</item>
+    </string-array>
+</resources>
